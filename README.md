@@ -2,9 +2,8 @@
 
 Utilizando o NODEMAILER - para enviar email smp-OUTLOOK
 
-## Índice
+## Instalação
 
-- [Instalação](#instalação)
 - npm init -y
 - npm install nodemailer
 
